@@ -1,2 +1,2 @@
-# CS5200-Project
-Final project for the class
+# CS5200_NeuralTransfer
+
